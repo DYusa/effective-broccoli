@@ -1,20 +1,15 @@
 {
-  "name": "effective-broccoli",
-  "author": "datawithece",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
   },
-  "keywords": [],
-  "license": "ISC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DYusa/effective-broccoli.git.git"
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
-  "bugs": {
-    "url": "https://github.com/DYusa/effective-broccoli.git/issues"
-  },
-  "homepage": "https://github.com/DYusa/effective-broccoli.git#readme"
+  "author": "datawithece"
 }
