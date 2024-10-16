@@ -12,5 +12,13 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "author": "datawithece",
-  "description": "A project that does something awesome like teaching how to use apis and npm to develop back end"
+  "description": "A project that does something awesome like teaching how to use apis and npm to develop back end",
+  "keywords": [
+    "brocollies rock",
+    "rocket science",
+    "stem for all",
+    "freeCodeCamp",
+    "freecodecamp",
+    "freecodecamprocks"
+  ]
 }
