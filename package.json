@@ -11,5 +11,6 @@
     "type": "git",
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
-  "author": "datawithece"
+  "author": "datawithece",
+  "description": "A project that does something awesome like teaching how to use apis and npm to develop back end"
 }
